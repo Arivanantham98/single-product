@@ -1,0 +1,1357 @@
+{
+  "single-product": [
+    {
+      "id": "recZkNf2kwmdBcqd0",
+      "name": "ASUS - ROG Zephyrus G14",
+      "price": 90000,
+      "image": [
+        {
+          "id": "attub6EG88kJKuYs8",
+          "url": "https://i.imgur.com/fbufJKr.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/fbufJKrs.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/fbufJKrl.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/fbufJKr.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attaeT2Dex98o2jfW",
+          "url": "https://i.imgur.com/JqciI16.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/JqciI16s.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/JqciI16l.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/JqciI16.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attWsZasaaRD1P7mm",
+          "url": "https://i.imgur.com/abtW5yZ.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/abtW5yZs.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/abtW5yZl.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/abtW5yZ.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attTvaiDcADaAItLw",
+          "url": "https://i.imgur.com/JDao3tr.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/JDao3trs.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/JDao3trl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/JDao3tr.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attdxQmF0aCH5I32F",
+          "url": "https://i.imgur.com/HgLeNAV.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/HgLeNAVs.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/HgLeNAVl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/HgLeNAV.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "colors": ["#ff0000", "#00ff00", "#0000ff"],
+      "company": "Asus",
+      "description": "ASUS ROG Zephyrus G14 Gaming Laptop: Enjoy everyday gaming with this ASUS notebook PC. The AMD Ryzen 9 processor and 16GB of RAM let you run graphics-heavy games smoothly, while the potent NVIDIA GeForce RTX 2060 graphics produce high-quality visuals on the 14-inch Full HD display",
+      "category": "Gaming",
+      "stock": 3,
+      "stars": 4.9,
+      "reviews": 25,
+      "shipping": true
+    },
+    {
+      "id": "recEHmzvupvT8ZONH",
+      "name": "MSI Bravo 15 Ryzen 7 4800H",
+      "price": 85000,
+      "image": [
+        {
+          "id": "attlcoqbw6bhTczEe",
+          "url": "https://i.imgur.com/ydCCQUT.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/ydCCQUTs.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/ydCCQUTl.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/ydCCQUT.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attHgcoIeZwV6JF4M",
+          "url": "https://i.imgur.com/YF26od6.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/YF26od6s.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/YF26od6l.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/YF26od6.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attNyzd6GgsyXGWFh",
+          "url": "https://i.imgur.com/k6bTudC.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/k6bTudCs.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/k6bTudCl.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/k6bTudC.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attvKDkKgX3W7WsZu",
+          "url": "https://i.imgur.com/Moa0bXb.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/Moa0bXbs.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/Moa0bXbl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/Moa0bXb.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attloeuDz1O59ksfc",
+          "url": "https://i.imgur.com/Ds5Tjrl.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/Ds5Tjrls.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/Ds5Tjrll.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/Ds5Tjrl.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "colors": ["#000", "#ffb900"],
+      "company": "MSI",
+      "stock": 0,
+      "stars": 3.3,
+      "reviews": 123,
+      "description": "MSI Gaming Bravo 15 A4DDR-212IN 15.6 FHD(1920x 1080),144Hz,IPS-Level,Thin Bezel,Anti-Glare/Ryzen7-4800H/4.2 GHz/8GB*2/RX5500M,GDDR6 4GB/512GB/Black(1.86kg)",
+      "category": "Gaming"
+    },
+
+    {
+      "id": "rec5NBwZ5zCD9nfF0",
+      "name": "Acer Nitro 5 Intel Core i5-9300H ",
+      "price": 71000,
+      "image": [
+        {
+          "id": "attixaIFKWvfsDgXe",
+          "url": "https://i.imgur.com/IDfVCA7.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/IDfVCA7s.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/IDfVCA7l.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/IDfVCA7.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "atteiTCuP63WZxqRP",
+          "url": "https://i.imgur.com/bQbsBXw.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/bQbsBXws.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/bQbsBXwl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/bQbsBXw.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attW7dd5NXUxwupVE",
+          "url": "https://i.imgur.com/H8sPTyd.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/H8sPTyds.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/H8sPTydl.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/H8sPTyd.jpgg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "atteIvlj6MhoBg1Lk",
+          "url": "https://i.imgur.com/5s3cefb.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/5s3cefbs.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/5s3cefbl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/5s3cefb.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attj3W9iJpev8ppFa",
+          "url": "https://i.imgur.com/iaFMrsJ.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/iaFMrsJs.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/iaFMrsJl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/iaFMrsJ.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "colors": ["#ffb900", "#0000ff"],
+      "company": "Acer",
+      "stock": 3,
+      "stars": 3.6,
+      "reviews": 34,
+      "description": "Enjoy premium looks without the premium price with the Acer NITRO Gaming notebook (model AN515-54), which features a beautiful exterior. It features a 15.6-inch high-def. display giving you ample space for opening multiple windows and digital entertainment.",
+      "category": "Gaming"
+    },
+    {
+      "id": "recd1jIVIEChmiwhe",
+      "name": "Acer Predator Helios 300 Gaming Laptop",
+      "price": 12599,
+      "image": [
+        {
+          "id": "attCXM1WJs4moqKZp",
+          "url": "https://i.imgur.com/Y204RT7.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/Y204RT7s.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/Y204RT7l.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/Y204RT7.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "att2N6lNTbvt0qUAk",
+          "url": "https://i.imgur.com/np3Yl97.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/np3Yl97s.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/np3Yl97l.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/np3Yl97.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attbDnTQoHFYsuXfV",
+          "url": "https://i.imgur.com/1EHFksS.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/1EHFksSs.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/1EHFksSl.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/1EHFksS.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attuWWFVg5cQMtBtG",
+          "url": "https://i.imgur.com/xDlwfwV.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/xDlwfwVs.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/xDlwfwVl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/xDlwfwV.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "att7Utqea6uV7j1Ba",
+          "url": "https://i.imgur.com/rDWWp9l.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/rDWWp9ls.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/rDWWp9ll.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/rDWWp9l.jpg.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "colors": ["#000", "#00ff00", "#0000ff"],
+      "company": "Acer",
+      "stock": 3,
+      "stars": 4.6,
+      "reviews": 33,
+      "description": "Acer Predator Helios 300 PH315-53-72XD Gaming Laptop comes with these high level specs: 10th Generation Intel Core i7-10750H 6-Core Processor 2. 6GHz with Turbo Boost Technology up to 5. 0GHz 15. 6-Full HD(1920 x 1080),widescreen LED-backlit IPS display",
+      "category": "Gaming",
+      "shipping": true
+    },
+    {
+      "id": "recoM2MyHJGHLVi5l",
+      "name": "MSI Stealth 15M A11SEK-062 ",
+      "price": 140999,
+      "image": [
+        {
+          "id": "attjNsGwwTxMqthdk",
+          "url": "https://i.imgur.com/FlJ1ZRo.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/FlJ1ZRos.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/FlJ1ZRol.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/FlJ1ZRo.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attSwKNXmgpwfNxmt",
+          "url": "https://i.imgur.com/uPlYQfe.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/uPlYQfes.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/uPlYQfel.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/uPlYQfe.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "atthDyZxcNhcsU368",
+          "url": "https://i.imgur.com/PjX1Vmb.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/PjX1Vmbs.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/PjX1Vmbl.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/PjX1Vmb.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attobC2UOlSB5o8qL",
+          "url": "https://i.imgur.com/PdEjGGR.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/PdEjGGRs.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/PdEjGGRl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/PdEjGGR.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attehkCUpn2JKybDe",
+          "url": "https://i.imgur.com/WfvaB9j.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/WfvaB9js.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/WfvaB9jl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/WfvaB9j.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "colors": ["#000"],
+      "company": "MSI",
+      "stock": 20,
+      "stars": 4.2,
+      "reviews": 11,
+      "description": "MSI Stealth 15M A11SEK-062 15.6- FHD 144Hz Thin Bezel Gaming Laptop Intel Core i7-1185G7 NVIDIA GeForce RTX2060 Max-Q 16GB 512GB NVMe SSD Win10 VR Ready",
+      "category": "Productivity",
+      "shipping": true
+    },
+
+    {
+      "id": "recotY5Nh00DQFdkm",
+      "name": "Asus ROG Strix G15 Core i7 10th Gen",
+      "price": 110000,
+      "image": [
+        {
+          "id": "attPSCwr1004so4XS",
+          "url": "https://i.imgur.com/cEzOMmI.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/cEzOMmIs.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/cEzOMmIl.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/cEzOMmI.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attgYeVHxy8rhBglD",
+          "url": "https://i.imgur.com/kGRISaa.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/kGRISaas.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/kGRISaal.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/kGRISaa.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attkHermmIOYPnXYE",
+          "url": "https://i.imgur.com/Q1GzywG.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/Q1GzywGs.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/Q1GzywGl.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/Q1GzywG.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attd3Lck3toObOwUI",
+          "url": "https://i.imgur.com/4QKBV1K.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/4QKBV1Ks.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/4QKBV1Kl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/4QKBV1K.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attU2rh2B6WLCRNmf",
+          "url": "https://i.imgur.com/enCaWqJ.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/enCaWqJs.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/enCaWqJl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/enCaWqJ.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "colors": ["#00ff00", "#0000ff", "#ff0000"],
+      "company": "ASUS",
+      "stock": 5,
+      "stars": 1.2,
+      "reviews": 200,
+      "description": "The ROG Strix G15 embodies streamlined design, offering a formidable core experience for serious gaming and multitasking on Windows 10. Featuring the latest 10th Gen Intel® Core™CPU and a GeForce RTX™ GPU, it offers high-FPS power that takes full advantage of its high refresh rate display",
+      "category": "Gaming",
+      "shipping": true
+    },
+    {
+      "id": "rec1Ntk7siEEW9ha1",
+      "name": "HP Pavilion Gaming 15-Inch Micro-EDGE Laptop",
+      "price": 70000,
+      "image": [
+        {
+          "id": "attY4SNpQuYCappA5",
+          "url": "https://i.imgur.com/9yKGo7S.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/9yKGo7Ss.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/9yKGo7Sl.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/9yKGo7S.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "att3O2p00oz6N6H9w",
+          "url": "https://i.imgur.com/gEEqA3B.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/gEEqA3Bs.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/gEEqA3Bl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/gEEqA3B.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attwHH8JA00TWTHgC",
+          "url": "https://i.imgur.com/7rYlwv6.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/7rYlwv6s.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/7rYlwv6l.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/7rYlwv6.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "att7hWYAvSnQL0MIL",
+          "url": "https://i.imgur.com/eUC3mzu.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/eUC3mzus.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/eUC3mzul.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/eUC3mzu.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attzY5iQpCYUV6xzA",
+          "url": "https://i.imgur.com/lwrLV5U.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/lwrLV5Us.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/lwrLV5Ul.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/lwrLV5U.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "colors": ["#0000ff", "#000"],
+      "company": "HP",
+      "stock": 0,
+      "stars": 5,
+      "reviews": 60,
+      "description": "Sacrifice nothing with the thin and powerful HP Pavilion Gaming 15 Laptop. Experience high-grade graphics and processing power for gaming and multitasking, plus improved thermal cooling for overall performance and stability. Immerse yourself in the game with a micro-edge bezel display and custom-tuned audio.",
+      "category": "Gaming",
+      "shipping": true
+    },
+    {
+      "id": "recNZ0koOqEmilmoz",
+      "name": "MSI Modern 14 Core i5 10th Gen",
+      "price": 59999,
+      "image": [
+        {
+          "id": "attFsmagNpnmXVW6M",
+          "url": "https://i.imgur.com/ezIfP6b.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/ezIfP6bs.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/ezIfP6bl.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/ezIfP6b.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "atthGte0RMjewvmzw",
+          "url": "https://i.imgur.com/EQJmdzG.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/EQJmdzGs.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/EQJmdzGl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/EQJmdzG.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "atthQYTA30SIf0rIg",
+          "url": "https://i.imgur.com/s2Nj9C6.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/s2Nj9C6s.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/s2Nj9C6l.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/s2Nj9C6.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attKUNrBH79MoscRA",
+          "url": "https://i.imgur.com/aEcS2fH.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/aEcS2fHs.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/aEcS2fHl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/aEcS2fH.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attG3c7TdqIyM1BZ7",
+          "url": "https://i.imgur.com/i1j4CzO.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/i1j4CzOs.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/i1j4CzOl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/i1j4CzO.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "colors": ["#000", "#ff0000"],
+      "company": "MSI",
+      "stock": 10,
+      "stars": 3.6,
+      "reviews": 100,
+      "description": "Enjoy a seamless computing experience with this MSI laptop. Featuring a sleek design with a 5.7-mm thin bezel and a 50 Wh lithium-polymer battery,this laptop will take your computing experience to the next level.",
+      "category": "Productivity",
+      "shipping": true
+    },
+    {
+      "id": "recrfxv3EwpvJwvjq",
+      "name": "MSI GL65 Leopard 10SFK-062 Intel Core i7-10750H RTX2070 ",
+      "price": 90000,
+      "image": [
+        {
+          "id": "atti2aXCYicF8f9Iz",
+          "url": "https://i.imgur.com/qY7IvjN.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/qY7IvjNs.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/qY7IvjNl.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/qY7IvjN.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attYh2G0YKskE9545",
+          "url": "https://i.imgur.com/w740mq5.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/w740mq5s.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/w740mq5l.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/w740mq5.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attmWcmsroka3WPKB",
+          "url": "https://i.imgur.com/MptolhY.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/MptolhYs.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/MptolhYl.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/MptolhY.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attvuhDXGNtvPdZ6Z",
+          "url": "https://i.imgur.com/e9CMxNM.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/e9CMxNMs.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/e9CMxNMl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/e9CMxNM.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attXnisz6IXd3oGEn",
+          "url": "https://i.imgur.com/XSDqtXL.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/XSDqtXLs.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/XSDqtXLl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/XSDqtXL.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "featured": true,
+      "colors": ["#000", "#00ff00"],
+      "company": "MSI",
+      "stock": 8,
+      "stars": 4.4,
+      "reviews": 19,
+      "description": "MSI GL65 Leopard 10SFK-062 15. 6,FHD 144Hz 3ms Thin Bezel Gaming Laptop Intel Core i7-10750H GeForce RTX 2070 16GB 512GB NVMe SSD Win 10.",
+      "category": "office",
+      "shipping": true
+    },
+    {
+      "id": "recoW8ecgjtKx2Sj2",
+      "name": "ASUS TUF Gaming A15 FA506II-HN153T Laptop",
+      "price": 70000,
+      "image": [
+        {
+          "id": "attR0yvedJlOyw4R0",
+          "url": "https://i.imgur.com/EmcokNZ.jpg",
+          "filename": "product-1 (1).jpeg",
+          "size": 56151,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/EmcokNZs.jpg",
+              "width": 58,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/EmcokNZl.jpg",
+              "width": 819,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/EmcokNZ.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attEoENSMB4xQ5zrn",
+          "url": "https://i.imgur.com/dv6lNl4.jpg",
+          "filename": "extra-1.jpeg",
+          "size": 102108,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/dv6lNl4s.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/dv6lNl4l.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/dv6lNl4.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "att0wgkeJYYXnFdOo",
+          "url": "https://i.imgur.com/hNmcsmW.jpg",
+          "filename": "extra-2.jpeg",
+          "size": 84418,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/hNmcsmWs.jpg",
+              "width": 50,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/hNmcsmWl.jpg",
+              "width": 717,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/hNmcsmW.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attMwh7hPmzRA0PrN",
+          "url": "https://i.imgur.com/ZosW7lM.jpg",
+          "filename": "extra-3.jpeg",
+          "size": 107838,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/ZosW7lMs.jpg",
+              "width": 55,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/ZosW7lMl.jpg",
+              "width": 788,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/ZosW7lM.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        },
+        {
+          "id": "attyZVAoqj4AfhJ4S",
+          "url": "https://i.imgur.com/eWBJB8j.jpg",
+          "filename": "extra-4.jpeg",
+          "size": 99481,
+          "type": "image/jpeg",
+          "thumbnails": {
+            "small": {
+              "url": "https://i.imgur.com/eWBJB8js.jpg",
+              "width": 54,
+              "height": 36
+            },
+            "large": {
+              "url": "https://i.imgur.com/eWBJB8jl.jpg",
+              "width": 768,
+              "height": 512
+            },
+            "full": {
+              "url": "https://i.imgur.com/eWBJB8j.jpg",
+              "width": 3000,
+              "height": 3000
+            }
+          }
+        }
+      ],
+      "colors": ["#ff0000", "#ffb900", "#00ff00"],
+      "company": "ASUS",
+      "stock": 300,
+      "stars": 4.8,
+      "reviews": 17,
+      "description": "ASUS TUF Gaming A15 Laptop 15.6,FHD 144Hz Ryzen 7 4800H,GTX 1650Ti 4GB Graphics (8GB RAM/1TB HDD + 256GB NVMe SSD/Windows 10/Bonfire Black/2.30 Kg),FA506II-HN153T,Geared for serious gaming and real-world durability, the TUF Gaming A15 is a fully-loaded Windows 10 gaming laptop that can carry you to victory. ",
+      "category": "Gaming"
+    }
+  ]
+}
